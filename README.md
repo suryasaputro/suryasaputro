@@ -1,16 +1,40 @@
-## Hi there 👋
+<h2 align="center">Hey I am Muhammad Surya Saputro, you can call me Surya✌ !!</h2>
+Currently I am studying information technology at Tidar University. 
 
-<!--
-**suryasaputro/suryasaputro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Languages ​​and Tools :
+<div align="left" style="display:flex; flex-wrap:wrap; gap:20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
-Here are some ideas to get you started:
+### Connect to Me :
+<p align="left">
+  <a href="https://medium.com/@suryasaputro" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" alt="Medium" />
+  </a>
+  <a href="https://www.linkedin.com/in/suryasaputro/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/srya.sptro_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:suryasaputro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Latest Medium Post :
+  [![Recent Post 1](https://github-readme-medium-recent-article.vercel.app/medium/@suryasaputro/0)](https://github-readme-medium-recent-article.vercel.app/medium/@suryasaputro/0)
+  [![Recent Post 2](https://github-readme-medium-recent-article.vercel.app/medium/@suryasaputro/1)](https://github-readme-medium-recent-article.vercel.app/medium/@suryasaputro/1)
+  [![Recent Post 3](https://github-readme-medium-recent-article.vercel.app/medium/@suryasaputro/2)](https://github-readme-medium-recent-article.vercel.app/medium/@suryasaputro/2)
+  
+[**More Articles on Medium**](https://medium.com/@suryasaputro)
+
+
+<h2 align="center">Thanks for stopping by! 😊</h2>
