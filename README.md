@@ -34,7 +34,7 @@ Currently I am studying information technology at Tidar University.
   [![Recent Post 2](https://github-readme-medium-recent-article.vercel.app/medium/@suryasaputro/1)](https://github-readme-medium-recent-article.vercel.app/medium/@suryasaputro/1)
   [![Recent Post 3](https://github-readme-medium-recent-article.vercel.app/medium/@suryasaputro/2)](https://github-readme-medium-recent-article.vercel.app/medium/@suryasaputro/2)
   
-[**More Articles on Medium**](https://medium.com/@suryasaputro)
+[**More Articles on Medium**](https://medium.com/@muhsuryasaputro05)
 
 
 <h2 align="center">Thanks for stopping by! 😊</h2>
