@@ -30,9 +30,9 @@ Currently I am studying information technology at Tidar University.
 </p>
 
 ### Latest Medium Post :
-  [![Recent Post 1](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/0)](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/0)
-  [![Recent Post 2](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/1)](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/1)
-  [![Recent Post 3](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/2)](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/2)
+  [![Recent Post 1](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro/0)](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/0)
+  [![Recent Post 2](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro/1)](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/1)
+  [![Recent Post 3](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro/2)](https://github-readme-medium-recent-article.vercel.app/medium/@muhsuryasaputro05/2)
   
 [**More Articles on Medium**](https://medium.com/@muhsuryasaputro05)
 
